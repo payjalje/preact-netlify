@@ -960,10 +960,10 @@
   dependencies:
     loader-utils "^1.1.0"
 
-"@preact/prerender-data-provider@^0.0.1":
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/@preact/prerender-data-provider/-/prerender-data-provider-0.0.1.tgz#6064d2a7bf1765386fc9f0a43d2ada0866159250"
-  integrity sha512-ccgbdQHD0k3pIubybQ9HeGl7EAgebnFU7Lwq9OmeyjMTFm2HHCKKcbREHldDsMdYOtOLznB37CY03wmwrHYxNw==
+"@preact/prerender-data-provider@^3.0.1":
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/@preact/prerender-data-provider/-/prerender-data-provider-3.0.1.tgz#89c9e5a53ed06b740f14da4a977d56dd9ad01bf7"
+  integrity sha512-Jox3VU2k4S/J0QL+tdRdnvZ7Cv/41cfWPWd7Xj8ZKqNZK85R7/UbsKIyvJHYI+YfBdR9MrDES+kjzzClkS8pHA==
 
 "@sindresorhus/is@^0.14.0":
   version "0.14.0"
